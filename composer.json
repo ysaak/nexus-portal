@@ -1,0 +1,12 @@
+{
+    "name": "ysaak/nexus-portal",
+    "type": "project",
+    "require": {
+        "nategood/httpful": "^0.2.20",
+        "lcobucci/jwt": "^3.2",
+        "silex/silex": "~2.0",
+        "twig/twig": "1.x-dev",
+        "symfony/twig-bridge": "3.4.x-dev"
+    },
+    "minimum-stability": "dev"
+}
